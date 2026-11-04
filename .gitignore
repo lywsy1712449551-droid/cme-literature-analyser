@@ -1,0 +1,5 @@
+# Local Codex/workspace configuration
+.codex/
+
+# Downloadable build archive; commit the source files instead
+/paper-research-analyzer.zip
